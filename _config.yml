@@ -1,17 +1,17 @@
 #------------------------------------------------------------
 # Values for this workshop.
 #------------------------------------------------------------
-title: "Digital literacy Training & Instructor Training"
+
 # Which carpentry is this ("swc", "dc", "lc", or "cp")?
 # swc: Software Carpentry
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
 carpentry: "cp"
+pilot: false  
 
 # Overall title for pages.
-
-title: "Digital literacy Training & Instructor Training"
+title: "Digital literacy Training & Instructor Training "
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
