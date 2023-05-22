@@ -3,8 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "et"      # "W3" for centrally organized online trainings or lowercase two-letter ISO country code such as "fr" of the host institution if applicable (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-humandate: "Date: Jun 21-22, 2023: Instrutor Training "    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humandate: "      Jun 23, 2023: Checkout "
+humandate: "Date: Jun 21-22, 2023: Instrutor Training,  Jun 23, 2023: Checkout "    # human-readable dates for the workshop (e.g., "Feb  17-18, 2020")
 humantime: "Time: 8:30 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2023-06-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-06-23         # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -14,7 +13,7 @@ contact: ["fixme@example.org"]    # boxed, comma-separated list of contact email
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.
-  - venue: "Ambo University_ Woliso campus" 
+  - venue: "Ambo University-Woliso campus" 
     address: "Woliso"
 
  
