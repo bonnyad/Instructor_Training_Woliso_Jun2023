@@ -3,18 +3,18 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "et"      # "W3" for centrally organized online trainings or lowercase two-letter ISO country code such as "fr" of the host institution if applicable (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-humandate: "Date: Jun 21-22, 2023: Instrutor Training,  Jun 23, 2023: Checkout "    # human-readable dates for the workshop (e.g., "Feb  17-18, 2020")
+humandate: "Date: June 21-22, 2023: Instrutor Training,  June 23, 2023: Checkout "    # human-readable dates for the workshop (e.g., "Feb  17-18, 2020")
 humantime: "Time: 8:30 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2023-06-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-06-23         # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Dr. Margareth Gfrerer", "Bonny Adane"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Dr. Margareth Gfrerer", "Ms Bonny Adane"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 
-contact: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+contact: ["margareth.gfrerer@cimonline.de or bonnyadane@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.
   - venue: "Ambo University-Woliso campus" 
-    address: "Woliso"
+
 
  
 
@@ -75,13 +75,6 @@ locations:            # for online events, delete the second section below. for 
 * Help you become integrated into the Carpentries community.
 * Prepare you to use these teaching skills in teaching Carpentries workshops.
   
-<p> Because we have only limited time, some things are beyond the scope of this training. We will
-not be learning:</p>
-  
-* How to program in R or Python, use Git or SQL, or any of the other topics taught in  <a href="{{ site.dc_site }}">Data Carpentry</a>, 
-  <a href="{{ site.lc_site }}">Library Carpentry</a>, or 
-  <a href="{{ site.swc_site }}">Software Carpentry</a> workshops.
-* How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more).
 
 
 <p>
@@ -135,21 +128,7 @@ please check your spam folder and email instructor.training@carpentries.org with
 
 {% if inperson == "true" %}
 
-<h4 id="accessibility">Accessibility</h4>
 
-We are committed to making this workshop
-accessible to everybody.
-Workshop organisers have checked that:
-
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-
-Materials will be provided in advance of the workshop. 
-If we can help make learning easier for you in any way by 
-providing additional support, accommodations, or assistance, 
-please get in touch (using contact details below) and we will attempt to provide them.
 
 {% endif %}
 
